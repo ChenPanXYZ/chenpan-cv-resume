@@ -18,11 +18,11 @@ Your response should be ready to copy and paste into a WordPress post. Never eve
 
 ***NOTE***: Every section should be seperated by a horizontal line.
 ***NOTE***: Please remove my phone number.
-***NOTE***: For email, you should use scrips_isolate.02@icloud.com.
+***NOTE***: For email, you should use total.haddock08@icloud.com.
 ***NOTE***: Please remove my website.
-***NOTE***: For the contact information section. My name should be centered. My location should be in one line centerted. Email, LinkedIn, and GitHub should be in one line centered.
+***NOTE***: For the contact information section. My name must be centered. My location need to be in a seperate line, also centered. Other contact information should be in one line using this: <a href="mailto:total.haddock08@icloud.com">Email</a> | <a href="https://www.linkedin.com/in/chenpanxyz/">LinkedIn</a> | @ChenPanXYZ
 ***NOTE***: Add Canada Flag Emoji 🇨🇦 in the location section after "CANADA".
-***NOTE***: Do not increase the font size of the title and contact information.:
+***NOTE***: Do not increase the font size of the title, location, and the contact information. The font size should be the same as the rest of the text.
 ***NOTE***: at the end, add the following code:
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Disclaimer</h2>

@@ -1,75 +1,57 @@
 <h1 style="text-align: center;">Pan Chen</h1>
-<div style="text-align: center;">
-    Toronto, Ontario, CANADA 🇨🇦<br>
-    <a href="mailto:scrips_isolate.02@icloud.com">scrips_isolate.02@icloud.com</a> | <a href="https://linkedin.com/in/chenpanxyz">linkedin.com/in/chenpanxyz</a> | @chenpanxyz
-</div>
-<hr>
+<p style="text-align: center;">Toronto, Ontario, CANADA 🇨🇦</p>
+<p style="text-align: center;"><a href="mailto:total.haddock08@icloud.com">Email</a> | <a href="https://www.linkedin.com/in/chenpanxyz/">LinkedIn</a> | @ChenPanXYZ</p>
+<hr />
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Research Interests</h2>
-<!-- /wp:heading -->
+<h2>Research Interests</h2>
 <p>AI for Science (scientific discoveries), Computational Creativity, Human-Computer Interaction, Academic Ethics</p>
-<hr>
+<hr />
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Education</h2>
-<!-- /wp:heading -->
+<h2>Education</h2>
+<p><strong>PhD Student in Computer Science</strong>, University of Toronto <span style="float: right;">2023 - Present</span></p>
 <ul>
-    <li><strong>PhD in Computer Science</strong>, University of Toronto <em>2023 - Present</em>
-        <ul>
-            <li>Supervisor: Dr. Alán Aspuru-Guzik</li>
-            <li>Regular Committee Members: Dr. Nicholas Papernot, Dr. Michael Liut</li>
-        </ul>
-    </li>
-    <li><strong>Summer School</strong>, Carnegie Mellon University <em>July 2023</em>
-        <ul>
-            <li>Mentors: Dr. John Stamper, Dr. Steven Moore</li>
-        </ul>
-    </li>
-    <li><strong>Bachelor of Science in Computer Science and Statistics</strong>, University of Toronto <em>2018 - 2022</em>
-        <ul>
-            <li>Research advisor: Dr. Joseph Jay Williams</li>
-        </ul>
-    </li>
+    <li>Supervisor: Dr. Alán Aspuru-Guzik</li>
+    <li>Regular Committee Members: Dr. Nicholas Papernot, Dr. Michael Liut</li>
 </ul>
-<hr>
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Experience</h2>
-<!-- /wp:heading -->
+<p><strong>Summer School</strong>, Carnegie Mellon University <span style="float: right;">July 2023</span></p>
 <ul>
-    <li><strong>Research Assistant</strong> <em>September 2022 - December 2023</em><br>Dynamic Graphics Project Lab, University of Toronto, Toronto, Ontario
-        <ul>
-            <li>Member of the team that won the XPRIZE Digital Learning Challenge by using applied machine learning algorithms to improve the learning experience</li>
-        </ul>
-    </li>
-    <li><strong>Research Scholar</strong> <em>May 2022 - August 2022</em><br>Data Sciences Institute, Toronto, Ontario
-        <ul>
-            <li>Developed a platform for people to collect data from third-party websites</li>
-            <li>Prepared different data analysis scripts for people to run in the front end</li>
-        </ul>
-    </li>
-    <li><strong>Teaching Assistant</strong> <em>Sep 2021 - Present</em><br>Departments of Computer Science and Statistics, University of Toronto, Toronto, Ontario</li>
-    <li><strong>Software Developer Co-op</strong> <em>Jun 2020 - Jun 2021</em><br>Infrastructures for Information, Toronto, Ontario</li>
+    <li>Mentors: Dr. John Stamper, Dr. Steven Moore</li>
 </ul>
-<hr>
+<p><strong>Bachelor of Science in Computer Science and Statistics</strong>, University of Toronto <span style="float: right;">2018 - 2022</span></p>
+<ul>
+    <li>Research advisor: Dr. Joseph Jay Williams</li>
+</ul>
+<hr />
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Projects</h2>
-<!-- /wp:heading -->
+<h2>EXPERIENCE</h2>
+<p><strong>Research Assistant</strong> <span style="float: right;">September 2022 - December 2023</span><br />Dynamic Graphics Project Lab, University of Toronto <em>Toronto, Ontario</em></p>
+<ul>
+    <li>Member of the team that won the XPRIZE Digital Learning Challenge by using applied machine learning algorithms to improve the learning experience</li>
+</ul>
+
+<p><strong>Research Scholar</strong> <span style="float: right;">May 2022 - August 2022</span><br />Data Sciences Institute <em>Toronto, Ontario</em></p>
+<ul>
+    <li>Developed a platform for people to collect data from third-party websites</li>
+    <li>Prepared different data analysis scripts for people to run in the front end</li>
+</ul>
+
+<p><strong>Teaching Assistant</strong> <span style="float: right;">Sep 2021 - Present</span><br />Departments of Computer Science and Statistics, University of Toronto <em>Toronto, Ontario</em></p>
+
+<p><strong>Software Developer Co-op</strong> <span style="float: right;">Jun 2020 - Jun 2021</span><br />Infrastructures for Information <em>Toronto, Ontario</em></p>
+<hr />
+
+<h2>PROJECTS</h2>
 <ul>
     <li><strong>AIEForScience</strong> - A modern platform for data-driven experiments that adapt and improve over time by utilizing machine learning algorithms.</li>
     <li><strong>Digital Learning Challenge by XPrize</strong> - Lead software developer & Machine Learning designer for the cross-platform infrastructure that supports both traditional and adaptive experiments and Machine Learning. We collaborated with CMU & UNC, and deployed our infrastructure in more than <strong>25</strong> courses. We are the grand winner of this XPRIZE Digital Learning Challenge sponsored by IES. <a href="https://www.xprize.org/challenge/digitallearning/finalist-teams">(More)</a></li>
     <li><strong>Voice Reflection System</strong> - Lead designer & developer of this online reflection system that allows students to reflect on course topics by talking. This system has been used by more than 500 students at the University of Toronto.</li>
     <li><strong>Face-Control Snake Game</strong> - Applied a TensorFlow model called PoseNet to detect the player's position in real-time, so that the player can move their face to control the snake. <a href="https://www.youtube.com/watch?v=Zn_5Oy7DZJw">(Video)</a></li>
 </ul>
-<hr>
+<hr />
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Personal Information</h2>
-<!-- /wp:heading -->
+<h2>Personal Information</h2>
 <p>Country of Citizenship/Permanent Residency: Canada, China.</p>
-<hr>
+<hr />
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Disclaimer</h2>
