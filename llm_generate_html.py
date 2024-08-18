@@ -17,9 +17,9 @@ Please put the wordpress code in "wordpress_code".
 Your response should be ready to copy and paste into a WordPress post. Never ever wrap the code in a code block (i.e., ```).
 
 ***NOTE***: Every section should be seperated by a horizontal line.
-***NOTE***: For phone number, you should use +1 TorontoAreaCodeStartingWith6-686-1520.
+***NOTE***: Please remove my phone number.
 ***NOTE***: For email, you should use scrips_isolate.02@icloud.com.
-***NOTE***: For the contact information section. My name should be centered. My Phone number and location should be in one line centerted. Email, LinkedIn, and GitHub should be in one line centered.
+***NOTE***: For the contact information section. My name should be centered. My location should be in one line centerted. Email, LinkedIn, and GitHub should be in one line centered.
 """
     
     completion = client.chat.completions.create(
