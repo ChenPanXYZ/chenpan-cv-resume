@@ -29,7 +29,7 @@ Your response should be ready to copy and paste into a WordPress post. Never eve
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>GPT-4o-mini automatically generated this page. Please click <a href="">here</a> to access the official CV in PDF format.</p>
+<p>GPT-4o-mini automatically generated this page. Please click <a href="https://chenpanxyz.github.io/chenpan-cv-resume/Chen-Pan-CV.pdf">here</a> to access the official CV in PDF format.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --> 
 """
