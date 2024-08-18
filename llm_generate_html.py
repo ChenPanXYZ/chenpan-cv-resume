@@ -19,7 +19,9 @@ Your response should be ready to copy and paste into a WordPress post. Never eve
 ***NOTE***: Every section should be seperated by a horizontal line.
 ***NOTE***: Please remove my phone number.
 ***NOTE***: For email, you should use scrips_isolate.02@icloud.com.
+***NOTE***: Please remove my website.
 ***NOTE***: For the contact information section. My name should be centered. My location should be in one line centerted. Email, LinkedIn, and GitHub should be in one line centered.
+***NOTE***: Add Canada Flag Emoji 🇨🇦 in the location section after "CANADA".
 """
     
     completion = client.chat.completions.create(
