@@ -4,3 +4,5 @@
 *.out
 *.log
 *.gz
+config.py
+__pycache__
