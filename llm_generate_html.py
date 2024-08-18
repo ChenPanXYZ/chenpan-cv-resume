@@ -15,7 +15,9 @@ Latex:
 {tex}
 Please put the wordpress code in "wordpress_code".
 Your response should be ready to copy and paste into a WordPress post. Never ever wrap the code in a code block (i.e., ```).
-Delete my phone number and email number, replacing with "Hidden from web version."
+For phone number and email only, you can use the following format:
+Phone: +1 XXX-686-1520 (first three digits are Toronto area code that starts with 6)
+Email: scrips_isolate.02@icloud.com
 """
     
     completion = client.chat.completions.create(
