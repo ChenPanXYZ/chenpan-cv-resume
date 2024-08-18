@@ -22,6 +22,16 @@ Your response should be ready to copy and paste into a WordPress post. Never eve
 ***NOTE***: Please remove my website.
 ***NOTE***: For the contact information section. My name should be centered. My location should be in one line centerted. Email, LinkedIn, and GitHub should be in one line centered.
 ***NOTE***: Add Canada Flag Emoji 🇨🇦 in the location section after "CANADA".
+***NOTE***: Do not increase the font size of the title and contact information.:
+***NOTE***: at the end, add the following code:
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Disclaimer</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>GPT-4o-mini automatically generated this page. Please click <a href="">here</a> to access the official CV in PDF format.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --> 
 """
     
     completion = client.chat.completions.create(
