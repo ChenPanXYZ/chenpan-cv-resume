@@ -1,16 +1,26 @@
 \documentclass{resume} % Use the custom template.cls style
-\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Document margins
+\usepackage[left=0.4in,top=0.4in,right=0.4in,bottom=0.4in]{geometry} % Document margins
+\usepackage{graphicx} % Package to include images
+\usepackage{lipsum} % For dummy text, can be removed
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
 \name{Pan Chen}
 \address{+1(647) 686-1520 \\ Toronto, Ontario, CANADA} 
 \address{\href{mailto:panchen@cs.toronto.edu}{panchen@cs.toronto.edu} \\ \href{https://linkedin.com/in/chenpanxyz}{linkedin.com/in/chenpanxyz} \\ \href{https://www.cs.toronto.edu/~panchen}{panchen.ca} \\ @chenpanxyz}%
+
 \begin{document}
 
-%%%%% Education
+% Adding the QR code image to the top right corner
+\begin{picture}(0,0)
+    \put(0,20){\includegraphics[width=2cm]{qrcode.png}}
+\end{picture}
+
+%%%%% Research Interests
 \begin{rSection}{Research Interests}
     AI for Science (scientific discoveries), Computational Creativity, Human-Computer Interaction, Academic Ethics
 \end{rSection}
+
+%%%%% Education
 \begin{rSection}{Education}
 
     \textbf{PhD Student in Computer Science}, University of Toronto \hfill {2023 - Present}
@@ -46,7 +56,6 @@
         \item Prepared different data analysis scripts for people to run in the front end
     \end{itemize}
 
- 
     \textbf{Teaching Assistant} \hfill Sep 2021 - Present\\Departments of Computer Science and Statistics, University of Toronto \hfill \textit{Toronto, Ontario}
     
     \textbf{Software Developer Co-op} \hfill Jun 2020 - Jun 2021\\Infrastructures for Information \hfill \textit{Toronto, Ontario}
@@ -54,7 +63,6 @@
 \end{rSection} 
 
 %%%%% Projects
-
 \begin{rSection}{PROJECTS}
 \vspace{-1.25em}
 \item \textbf{AIEForScience} {A modern platform for data-driven experiments that adapt and improve over time by utilizing machine learning algorithms.}
@@ -67,6 +75,8 @@
 \end{rSection} 
 
 \begin{rSection}{Personal Information}
-    Country of Citizenship/Permanent Residency: Canada, China.
+    Citizenship: Permanent Resident of Canada
+    
 \end{rSection}
+
 \end{document}
