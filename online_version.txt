@@ -1,10 +1,10 @@
 <h1 style="text-align: center;">Pan Chen</h1>
 <p style="text-align: center;">Toronto, Ontario, CANADA 🇨🇦</p>
 <p style="text-align: center;"><a href="mailto:total.haddock08@icloud.com">Email</a> | <a href="https://www.linkedin.com/in/chenpanxyz/">LinkedIn</a> | @ChenPanXYZ</p>
-<hr />
+<hr>
 <h2>Research Interests</h2>
 <p>AI for Science (scientific discoveries), LLM, Computational Creativity, Human-Computer Interaction</p>
-<hr />
+<hr>
 <h2>Education</h2>
 <p><strong>PhD Student in Computer Science</strong>, University of Toronto <em>2023 - Present</em></p>
 <ul>
@@ -19,34 +19,31 @@
 <ul>
     <li>Research advisor: Dr. Joseph Jay Williams</li>
 </ul>
-<hr />
+<hr>
 <h2>Experience</h2>
-<p><strong>Instructor</strong> <em>Jan 2025 - Present</em><br />Departments of Computer Science, Toronto, Ontario</p>
+<p><strong>Instructor</strong> <em>Jan 2025 - Present</em><br>Departments of Computer Science, Toronto, Ontario</p>
 <ul>
     <li>CSC148 (Introduction to Computer Science)</li>
 </ul>
-<p><strong>Research Assistant</strong> <em>Sep 2022 - Dec 2023</em><br />Dynamic Graphics Project Lab, University of Toronto, Toronto, Ontario</p>
+<p><strong>Research Assistant</strong> <em>Sep 2022 - Dec 2023</em><br>Dynamic Graphics Project Lab, University of Toronto, Toronto, Ontario</p>
 <ul>
     <li>Member of the team that won the XPRIZE Digital Learning Challenge by using applied machine learning algorithms to improve the learning experience</li>
 </ul>
-<p><strong>Research Scholar</strong> <em>May 2022 - Aug 2022</em><br />Data Sciences Institute, Toronto, Ontario</p>
+<p><strong>Research Scholar</strong> <em>May 2022 - Aug 2022</em><br>Data Sciences Institute, Toronto, Ontario</p>
 <ul>
     <li>Developed a platform for people to collect data from third-party websites</li>
     <li>Prepared different data analysis scripts for people to run in the front end</li>
 </ul>
-<p><strong>Teaching Assistant</strong> <em>Sep 2021 - Dec 2024</em><br />Departments of Computer Science and Statistics, University of Toronto, Toronto, Ontario</p>
-<p><strong>Software Developer Co-op</strong> <em>Jun 2020 - Jun 2021</em><br />Infrastructures for Information, Toronto, Ontario</p>
-<hr />
+<p><strong>Teaching Assistant</strong> <em>Sep 2021 - Dec 2024</em><br>Departments of Computer Science and Statistics, University of Toronto, Toronto, Ontario</p>
+<p><strong>Software Developer Co-op</strong> <em>Jun 2020 - Jun 2021</em><br>Infrastructures for Information, Toronto, Ontario</p>
+<hr>
 <h2>Projects</h2>
 <ul>
     <li><strong>AIEForScience</strong> - A modern platform for data-driven experiments that adapt and improve over time by utilizing machine learning algorithms.</li>
     <li><strong>Digital Learning Challenge by XPrize</strong> - Lead software developer & Machine Learning designer for the cross-platform infrastructure that supports both traditional and adaptive experiments and Machine Learning. We collaborated with CMU & UNC, and deployed our infrastructure in more than <strong>25</strong> courses. We are the grand winner of this XPRIZE Digital Learning Challenge sponsored by IES. <a href="https://www.xprize.org/challenge/digitallearning/finalist-teams">(More)</a></li>
     <li><strong>Voice Reflection System</strong> - Lead designer & developer of this online reflection system that allows students to reflect on course topics by talking. This system has been used by more than 500 students at the University of Toronto.</li>
 </ul>
-<hr />
-<h2>Personal Information</h2>
-<p>Citizenship/Permanent Residence: Canada, China</p>
-<hr />
+<hr>
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Disclaimer</h2>
 <!-- /wp:heading -->
