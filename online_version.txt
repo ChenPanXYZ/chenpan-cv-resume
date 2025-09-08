@@ -24,6 +24,7 @@
 <p><strong>Instructor</strong> <em>Jan 2025 - Present</em><br>Departments of Computer Science, Toronto, Ontario</p>
 <ul>
     <li>CSC148 (Introduction to Computer Science)</li>
+    <li>CSC207 (Software Design)</li>
 </ul>
 <p><strong>Research Assistant</strong> <em>Sep 2022 - Dec 2023</em><br>Dynamic Graphics Project Lab, University of Toronto, Toronto, Ontario</p>
 <ul>
